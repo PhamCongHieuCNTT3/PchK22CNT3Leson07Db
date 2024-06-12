@@ -1,0 +1,69 @@
+﻿@model IEnumerable<PchKiemTraGK.Models.pchSinhVien>
+
+@{
+    ViewBag.Title = "PchIndex";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "PchCreate")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.PchHoSV)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PchTenSV)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PchNgaySinh)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PchPhai)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PchPhone)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PchEmail)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.pchKhoa.PchTenKH)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.PchHoSV)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PchTenSV)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PchNgaySinh)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PchPhai)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PchPhone)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PchEmail)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.pchKhoa.PchTenKH)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "PchEdit", new { id=item.PchMaSV }) |
+            @Html.ActionLink("Details", "PchDetails", new { id=item.PchMaSV }) |
+            @Html.ActionLink("Delete", "PchDelete", new { id=item.PchMaSV })
+        </td>
+    </tr>
+}
+
+</table>

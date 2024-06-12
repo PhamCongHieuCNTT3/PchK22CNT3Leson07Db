@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\k22cnt3 aspnetmvc\\PchKiemTraGK\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F789D1B6-49C2-4BA2-A23B-F8BE5B9C99DA}|PchKiemTraGK\\PchKiemTraGK.csproj|c:\\k22cnt3 aspnetmvc\\pchkiemtragk\\pchkiemtragk\\views\\pchsinhviens\\pchcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F789D1B6-49C2-4BA2-A23B-F8BE5B9C99DA}|PchKiemTraGK\\PchKiemTraGK.csproj|solutionrelative:pchkiemtragk\\views\\pchsinhviens\\pchcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F789D1B6-49C2-4BA2-A23B-F8BE5B9C99DA}|PchKiemTraGK\\PchKiemTraGK.csproj|c:\\k22cnt3 aspnetmvc\\pchkiemtragk\\pchkiemtragk\\views\\pchsinhviens\\pchdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F789D1B6-49C2-4BA2-A23B-F8BE5B9C99DA}|PchKiemTraGK\\PchKiemTraGK.csproj|solutionrelative:pchkiemtragk\\views\\pchsinhviens\\pchdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F789D1B6-49C2-4BA2-A23B-F8BE5B9C99DA}|PchKiemTraGK\\PchKiemTraGK.csproj|c:\\k22cnt3 aspnetmvc\\pchkiemtragk\\pchkiemtragk\\views\\pchsinhviens\\pchdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F789D1B6-49C2-4BA2-A23B-F8BE5B9C99DA}|PchKiemTraGK\\PchKiemTraGK.csproj|solutionrelative:pchkiemtragk\\views\\pchsinhviens\\pchdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F789D1B6-49C2-4BA2-A23B-F8BE5B9C99DA}|PchKiemTraGK\\PchKiemTraGK.csproj|c:\\k22cnt3 aspnetmvc\\pchkiemtragk\\pchkiemtragk\\views\\pchsinhviens\\pchedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F789D1B6-49C2-4BA2-A23B-F8BE5B9C99DA}|PchKiemTraGK\\PchKiemTraGK.csproj|solutionrelative:pchkiemtragk\\views\\pchsinhviens\\pchedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F789D1B6-49C2-4BA2-A23B-F8BE5B9C99DA}|PchKiemTraGK\\PchKiemTraGK.csproj|c:\\k22cnt3 aspnetmvc\\pchkiemtragk\\pchkiemtragk\\views\\pchsinhviens\\pchindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F789D1B6-49C2-4BA2-A23B-F8BE5B9C99DA}|PchKiemTraGK\\PchKiemTraGK.csproj|solutionrelative:pchkiemtragk\\views\\pchsinhviens\\pchindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F789D1B6-49C2-4BA2-A23B-F8BE5B9C99DA}|PchKiemTraGK\\PchKiemTraGK.csproj|c:\\k22cnt3 aspnetmvc\\pchkiemtragk\\pchkiemtragk\\views\\shared\\pch_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F789D1B6-49C2-4BA2-A23B-F8BE5B9C99DA}|PchKiemTraGK\\PchKiemTraGK.csproj|solutionrelative:pchkiemtragk\\views\\shared\\pch_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F789D1B6-49C2-4BA2-A23B-F8BE5B9C99DA}|PchKiemTraGK\\PchKiemTraGK.csproj|c:\\k22cnt3 aspnetmvc\\pchkiemtragk\\pchkiemtragk\\controllers\\pchsinhvienscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F789D1B6-49C2-4BA2-A23B-F8BE5B9C99DA}|PchKiemTraGK\\PchKiemTraGK.csproj|solutionrelative:pchkiemtragk\\controllers\\pchsinhvienscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F789D1B6-49C2-4BA2-A23B-F8BE5B9C99DA}|PchKiemTraGK\\PchKiemTraGK.csproj|c:\\k22cnt3 aspnetmvc\\pchkiemtragk\\pchkiemtragk\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F789D1B6-49C2-4BA2-A23B-F8BE5B9C99DA}|PchKiemTraGK\\PchKiemTraGK.csproj|solutionrelative:pchkiemtragk\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F789D1B6-49C2-4BA2-A23B-F8BE5B9C99DA}|PchKiemTraGK\\PchKiemTraGK.csproj|c:\\k22cnt3 aspnetmvc\\pchkiemtragk\\pchkiemtragk\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{F789D1B6-49C2-4BA2-A23B-F8BE5B9C99DA}|PchKiemTraGK\\PchKiemTraGK.csproj|solutionrelative:pchkiemtragk\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F789D1B6-49C2-4BA2-A23B-F8BE5B9C99DA}|PchKiemTraGK\\PchKiemTraGK.csproj|c:\\k22cnt3 aspnetmvc\\pchkiemtragk\\pchkiemtragk\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F789D1B6-49C2-4BA2-A23B-F8BE5B9C99DA}|PchKiemTraGK\\PchKiemTraGK.csproj|solutionrelative:pchkiemtragk\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PchCreate.cshtml",
+              "DocumentMoniker": "C:\\k22cnt3 aspnetmvc\\PchKiemTraGK\\PchKiemTraGK\\Views\\pchSinhViens\\PchCreate.cshtml",
+              "RelativeDocumentMoniker": "PchKiemTraGK\\Views\\pchSinhViens\\PchCreate.cshtml",
+              "ToolTip": "C:\\k22cnt3 aspnetmvc\\PchKiemTraGK\\PchKiemTraGK\\Views\\pchSinhViens\\PchCreate.cshtml",
+              "RelativeToolTip": "PchKiemTraGK\\Views\\pchSinhViens\\PchCreate.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAGIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T03:34:10.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PchIndex.cshtml",
+              "DocumentMoniker": "C:\\k22cnt3 aspnetmvc\\PchKiemTraGK\\PchKiemTraGK\\Views\\pchSinhViens\\PchIndex.cshtml",
+              "RelativeDocumentMoniker": "PchKiemTraGK\\Views\\pchSinhViens\\PchIndex.cshtml",
+              "ToolTip": "C:\\k22cnt3 aspnetmvc\\PchKiemTraGK\\PchKiemTraGK\\Views\\pchSinhViens\\PchIndex.cshtml",
+              "RelativeToolTip": "PchKiemTraGK\\Views\\pchSinhViens\\PchIndex.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T03:21:30.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "pchSinhViensController.cs",
+              "DocumentMoniker": "C:\\k22cnt3 aspnetmvc\\PchKiemTraGK\\PchKiemTraGK\\Controllers\\pchSinhViensController.cs",
+              "RelativeDocumentMoniker": "PchKiemTraGK\\Controllers\\pchSinhViensController.cs",
+              "ToolTip": "C:\\k22cnt3 aspnetmvc\\PchKiemTraGK\\PchKiemTraGK\\Controllers\\pchSinhViensController.cs",
+              "RelativeToolTip": "PchKiemTraGK\\Controllers\\pchSinhViensController.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAowGwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T03:18:40.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\k22cnt3 aspnetmvc\\PchKiemTraGK\\PchKiemTraGK\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "PchKiemTraGK\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\k22cnt3 aspnetmvc\\PchKiemTraGK\\PchKiemTraGK\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "PchKiemTraGK\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T01:36:18.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pch_Layout.cshtml",
+              "DocumentMoniker": "C:\\k22cnt3 aspnetmvc\\PchKiemTraGK\\PchKiemTraGK\\Views\\Shared\\Pch_Layout.cshtml",
+              "RelativeDocumentMoniker": "PchKiemTraGK\\Views\\Shared\\Pch_Layout.cshtml",
+              "ToolTip": "C:\\k22cnt3 aspnetmvc\\PchKiemTraGK\\PchKiemTraGK\\Views\\Shared\\Pch_Layout.cshtml",
+              "RelativeToolTip": "PchKiemTraGK\\Views\\Shared\\Pch_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T01:33:49.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\k22cnt3 aspnetmvc\\PchKiemTraGK\\PchKiemTraGK\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "PchKiemTraGK\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\k22cnt3 aspnetmvc\\PchKiemTraGK\\PchKiemTraGK\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "PchKiemTraGK\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T01:36:46.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PchDelete.cshtml",
+              "DocumentMoniker": "C:\\k22cnt3 aspnetmvc\\PchKiemTraGK\\PchKiemTraGK\\Views\\pchSinhViens\\PchDelete.cshtml",
+              "RelativeDocumentMoniker": "PchKiemTraGK\\Views\\pchSinhViens\\PchDelete.cshtml",
+              "ToolTip": "C:\\k22cnt3 aspnetmvc\\PchKiemTraGK\\PchKiemTraGK\\Views\\pchSinhViens\\PchDelete.cshtml",
+              "RelativeToolTip": "PchKiemTraGK\\Views\\pchSinhViens\\PchDelete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T03:34:36.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PchDetails.cshtml",
+              "DocumentMoniker": "C:\\k22cnt3 aspnetmvc\\PchKiemTraGK\\PchKiemTraGK\\Views\\pchSinhViens\\PchDetails.cshtml",
+              "RelativeDocumentMoniker": "PchKiemTraGK\\Views\\pchSinhViens\\PchDetails.cshtml",
+              "ToolTip": "C:\\k22cnt3 aspnetmvc\\PchKiemTraGK\\PchKiemTraGK\\Views\\pchSinhViens\\PchDetails.cshtml",
+              "RelativeToolTip": "PchKiemTraGK\\Views\\pchSinhViens\\PchDetails.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T03:34:53.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PchEdit.cshtml",
+              "DocumentMoniker": "C:\\k22cnt3 aspnetmvc\\PchKiemTraGK\\PchKiemTraGK\\Views\\pchSinhViens\\PchEdit.cshtml",
+              "RelativeDocumentMoniker": "PchKiemTraGK\\Views\\pchSinhViens\\PchEdit.cshtml",
+              "ToolTip": "C:\\k22cnt3 aspnetmvc\\PchKiemTraGK\\PchKiemTraGK\\Views\\pchSinhViens\\PchEdit.cshtml",
+              "RelativeToolTip": "PchKiemTraGK\\Views\\pchSinhViens\\PchEdit.cshtml",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAFYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T03:35:05.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\k22cnt3 aspnetmvc\\PchKiemTraGK\\PchKiemTraGK\\Models\\Model1.edmx",
+              "RelativeDocumentMoniker": "PchKiemTraGK\\Models\\Model1.edmx",
+              "ToolTip": "C:\\k22cnt3 aspnetmvc\\PchKiemTraGK\\PchKiemTraGK\\Models\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "PchKiemTraGK\\Models\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-06-12T03:15:20.243Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

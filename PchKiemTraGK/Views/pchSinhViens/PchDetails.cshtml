@@ -1,0 +1,74 @@
+﻿@model PchKiemTraGK.Models.pchSinhVien
+
+@{
+    ViewBag.Title = "PchDetails";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>pchSinhVien</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.PchHoSV)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PchHoSV)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PchTenSV)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PchTenSV)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PchNgaySinh)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PchNgaySinh)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PchPhai)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PchPhai)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PchPhone)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PchPhone)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PchEmail)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PchEmail)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.pchKhoa.PchTenKH)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.pchKhoa.PchTenKH)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.PchMaSV }) |
+    @Html.ActionLink("Back to List", "PchIndex")
+</p>
